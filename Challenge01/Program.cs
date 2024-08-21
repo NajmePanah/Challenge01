@@ -15,9 +15,6 @@ namespace Challenge01
                 Console.WriteLine("Challenge01");
             Console.ReadKey();
         }
-       
-
-
 
     }
 }
