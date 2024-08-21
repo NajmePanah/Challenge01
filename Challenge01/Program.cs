@@ -10,6 +10,14 @@ namespace Challenge01
     {
         static void Main(string[] args)
         {
+            int i;
+            for (i = 0; i < 10; i++)
+                Console.WriteLine("Challenge01");
+            Console.ReadKey();
         }
+       
+
+
+
     }
 }
